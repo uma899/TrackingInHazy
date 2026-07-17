@@ -1,3 +1,6 @@
+Download weights https://drive.google.com/drive/folders/1vgdunAsTCHZECrChV_c98yMUr8VTz4pI?usp=sharing
+and put those two folders in root folder
+
 ### TESTS - Total 10
 
 test1 - model_80, siam..
